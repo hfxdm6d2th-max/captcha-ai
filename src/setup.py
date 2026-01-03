@@ -1,0 +1,7 @@
+print("🎉 CAPTCHA Science Project Setup!")
+print("When you're ready to start:")
+print("\n1. Install packages:")
+print("   pip install -r requirements.txt")
+print("\n2. Generate test CAPTCHAs:")
+print("   python src/make_captchas.py")
+print("\n3. Enjoy your project! 🚀")
