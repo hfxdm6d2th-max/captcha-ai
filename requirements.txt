@@ -1,0 +1,7 @@
+# AI Science Project - CAPTCHA Research
+torch==2.0.0
+torchvision==0.15.0
+Pillow==10.0.0
+numpy==1.24.0
+matplotlib==3.7.0
+captcha==0.4
